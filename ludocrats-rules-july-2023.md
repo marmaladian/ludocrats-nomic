@@ -116,3 +116,6 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
 This rule takes precedence over every other rule determining the winner. 
+
+### 301 (proposed by @TiCranium, reached quorum 6 votes to 0)
+All rule change proposals must be made within 24 hours of being notified that is your turn following a completed vote on a proposal, or in the case of the first turn, within 24 hours of being notified that you are first player. The timer starts when the rule-keeper notifies the ⁠📜｜nomic channel with a @here message the result of the vote and the current status of the rules has been determined and updated if necessary. 
