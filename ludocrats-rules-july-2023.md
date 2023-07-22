@@ -124,3 +124,6 @@ All rule change proposals must be made within 24 hours of being notified that is
 On a players turn, they may propose a draft form of the proposal to be debated and discussed in a thread dedicated to discussion of the proposal.  Only the final draft of a vote may be officially voted on.  The final draft shall be known to all as the final draft as it shall bear the branding [FINAL DRAFT] at the start.
 
 Once the player has submitted a proposal with the branding, [FINAL DRAFT], no more discussion or debate may be entered into.
+
+### 303. (proposed by @semyeotic, reached quorum 6 votes to 0)
+Upon the completion of a turn, the score a player rolls is added to the price at market of a random fruit.  If there are no fruits at market, no price change occurs.  For clarity, market price changes are not part of a player's turn, and whether they occur or not does not impact the completion of a turn.
