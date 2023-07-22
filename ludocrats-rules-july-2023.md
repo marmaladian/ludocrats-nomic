@@ -117,5 +117,10 @@ If the rules are changed so that further play is impossible, or if the legality 
 
 This rule takes precedence over every other rule determining the winner. 
 
-### 301 (proposed by @TiCranium, reached quorum 6 votes to 0)
+### 301. (proposed by @TiCranium, reached quorum 6 votes to 0)
 All rule change proposals must be made within 24 hours of being notified that is your turn following a completed vote on a proposal, or in the case of the first turn, within 24 hours of being notified that you are first player. The timer starts when the rule-keeper notifies the ⁠📜｜nomic channel with a @here message the result of the vote and the current status of the rules has been determined and updated if necessary. 
+
+### 302. (proposed by @Biggusniccus, reached quorum 6 votes to 0)
+On a players turn, they may propose a draft form of the proposal to be debated and discussed in a thread dedicated to discussion of the proposal.  Only the final draft of a vote may be officially voted on.  The final draft shall be known to all as the final draft as it shall bear the branding [FINAL DRAFT] at the start.
+
+Once the player has submitted a proposal with the branding, [FINAL DRAFT], no more discussion or debate may be entered into.
