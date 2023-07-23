@@ -127,3 +127,10 @@ Once the player has submitted a proposal with the branding, [FINAL DRAFT], no mo
 
 ### 303. (proposed by @semyeotic, reached quorum 6 votes to 0)
 Upon the completion of a turn, the score a player rolls is added to the price at market of a random fruit.  If there are no fruits at market, no price change occurs.  For clarity, market price changes are not part of a player's turn, and whether they occur or not does not impact the completion of a turn.
+
+### 304. (proposed by @marmaladian, reached quorum 6 votes to 0)
+Players must belong to either the Hall or the Chamber.
+
+Players choose for themselves which of these they join initially.
+
+Switching membership (e.g. from the Hall to the Chamber or vice versa) requires unanimous approval by the current members of the group (Hall or Chamber) the player wishes to join.
