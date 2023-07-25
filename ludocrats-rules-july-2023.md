@@ -139,5 +139,3 @@ Any rules created or amended by a proposal must include the text “Infected by 
 
 ### 306. (transmutation of 104 to mutable proposed by @C.J., reached quorum 6 votes to 0)
 All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
-
-Infected by The Plague.
