@@ -134,3 +134,8 @@ Players must belong to either the Hall or the Chamber.
 Players choose for themselves which of these they join initially.
 
 Switching membership (e.g. from the Hall to the Chamber or vice versa) requires unanimous approval by the current members of the group (Hall or Chamber) the player wishes to join.
+
+### 305. (proposed by @heaso, reached quoryum 6 votes to 0)
+Nomic has been infected by The Plague. 
+
+Any rules created or amended by a proposal must include the text “Infected by The Plague” at the end.
