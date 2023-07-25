@@ -13,9 +13,6 @@ A rule-change is any of the following: (1) the enactment, repeal, or amendment o
 
 _(Note: This definition implies that, at least initially, all new rules are mutable; immutable rules, as long as they are immutable, may not be amended or repealed; mutable rules, as long as they are mutable, may be amended or repealed; any rule of any status may be transmuted; no rule is absolutely immune to change.)_
 
-### 104.
-All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
-
 ### 105.
 Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
 
@@ -135,7 +132,12 @@ Players choose for themselves which of these they join initially.
 
 Switching membership (e.g. from the Hall to the Chamber or vice versa) requires unanimous approval by the current members of the group (Hall or Chamber) the player wishes to join.
 
-### 305. (proposed by @heaso, reached quoryum 6 votes to 0)
+### 305. (proposed by @heaso, reached quorum 6 votes to 0)
 Nomic has been infected by The Plague. 
 
 Any rules created or amended by a proposal must include the text “Infected by The Plague” at the end.
+
+### 306. (transmutation of 104 to mutable proposed by @C.J., reached quorum 6 votes to 0)
+All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
+
+Infected by The Plague.
