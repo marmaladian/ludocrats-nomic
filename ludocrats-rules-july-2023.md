@@ -139,3 +139,8 @@ Any rules created or amended by a proposal must include the text “Infected by 
 
 ### 306. (transmutation of 104 to mutable proposed by @C.J., reached quorum 6 votes to 0)
 All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
+
+### 307. (proposed by @TiCranium, reached quorum 6 votes to 0)
+Every player must have nominated a "district" before the end of the second complete circuit of turns. From the third circuit of turns onwards, other players must refer to them as The Honorable Member for <District> if they are in the Hall, or The Honorable Representative of <District> if they are a member of the Chamber. The 'district' must be one dictionary or accepted slang word. If a player is referred to without the honorific the offending player sacrifices 1 (one) point to the player who was not referred to in the honorific.
+
+Infected by The Plague.
