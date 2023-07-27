@@ -144,3 +144,16 @@ All rule-changes proposed in the proper way shall be voted on. They will be adop
 Every player must have nominated a "district" before the end of the second complete circuit of turns. From the third circuit of turns onwards, other players must refer to them as The Honorable Member for <District> if they are in the Hall, or The Honorable Representative of <District> if they are a member of the Chamber. The 'district' must be one dictionary or accepted slang word. If a player is referred to without the honorific the offending player sacrifices 1 (one) point to the player who was not referred to in the honorific.
 
 Infected by The Plague.
+
+### 308. (proposed by @Biggusniccus, reached quorum 6 votes to 0)
+While the concept of circut of turns exists (c.f rule 203), at the end of each circut of turns, beginning after the 2nd cycle, players will vote for "Nomicon of the round".
+
+A thread will be made, where each player will nominate another for the title with a brief reason. Players are limited to one post each in the thread. Nominating one other player only.  The nominator must specify a particular rule change, proposal, or act of sportsmanship made by the nominee that positively impacted the game during the current cycle.
+
+Once all players have voted, the winner and the nominator gain 5 points each.  In addition, the "Nomicon of the round" may immediately go to the market.
+
+Neither votes or nominations are compulsory.  Each player can vote a maximum of one time, and not for their own nomination.
+
+In the event of a tie, there will be no Nomicon of the round.
+
+Infected by The Plague.
