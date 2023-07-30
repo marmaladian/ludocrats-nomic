@@ -157,3 +157,15 @@ Neither votes or nominations are compulsory.  Each player can vote a maximum of 
 In the event of a tie, there will be no Nomicon of the round.
 
 Infected by The Plague.
+
+### 310. (proposed by @marmaladian, reached quorum 6 votes to 0)
+
+The Book of Promises maintains a list of agreements or promises between players to perform some (legal) game action(s) in the future, such as proposing a certain rule, voting in a certain way.
+
+A promise is added when a player states their promise starting with the exact words "I Promise" (note capitalisation).
+
+If the promise is not fulfilled, the player(s) that broke the promise are not permitted to propose a rule-change on their next turn (this supersedes rule 201 "parts of turns may not be omitted" and the parts of the turn detailed in rule 202).
+
+Resolved (i.e. broken or fulfilled) promises are removed from the Book.
+
+If there is any dispute about whether a promise has been broken or fulfilled, the Judge may be invoked to make a binding ruling on the dispute. If the Judge would be one of the players involved in the promise (a promisor or promisee) then the next player preceding the Judge who is not involved in the promise will be the Judge.
