@@ -169,3 +169,5 @@ If the promise is not fulfilled, the player(s) that broke the promise are not pe
 Resolved (i.e. broken or fulfilled) promises are removed from the Book.
 
 If there is any dispute about whether a promise has been broken or fulfilled, the Judge may be invoked to make a binding ruling on the dispute. If the Judge would be one of the players involved in the promise (a promisor or promisee) then the next player preceding the Judge who is not involved in the promise will be the Judge.
+
+Infected by The Plague.
