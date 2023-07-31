@@ -159,7 +159,6 @@ In the event of a tie, there will be no Nomicon of the round.
 Infected by The Plague.
 
 ### 310. (proposed by @marmaladian, reached quorum 6 votes to 0)
-
 The Book of Promises maintains a list of agreements or promises between players to perform some (legal) game action(s) in the future, such as proposing a certain rule, voting in a certain way.
 
 A promise is added when a player states their promise starting with the exact words "I Promise" (note capitalisation).
@@ -169,5 +168,19 @@ If the promise is not fulfilled, the player(s) that broke the promise are not pe
 Resolved (i.e. broken or fulfilled) promises are removed from the Book.
 
 If there is any dispute about whether a promise has been broken or fulfilled, the Judge may be invoked to make a binding ruling on the dispute. If the Judge would be one of the players involved in the promise (a promisor or promisee) then the next player preceding the Judge who is not involved in the promise will be the Judge.
+
+Infected by The Plague.
+
+### 311. (proposed by @heaso, reached quorum 6 votes to 0)
+At the end of the circuit and after Nomicon of the round (rule 308) has been completed the current points leader/s shall add a piece of fruit of their choosing to the market. 
+
+The player can either add a new fruit to the market or an additional piece of existing fruit.
+
+The fruit shall have the following attributes.
+Name: Real or fictious
+Initial Cost:  In points
+Effect : The effect the fruit has including how it is triggered and who it effects.
+
+If a player elects to add another piece of fruit already available in the market they may nominate a new initial price for that fruit.
 
 Infected by The Plague.
