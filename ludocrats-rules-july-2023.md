@@ -130,8 +130,8 @@ On a players turn, they may propose a draft form of the proposal to be debated a
 
 Once the player has submitted a proposal with the branding, [FINAL DRAFT], no more discussion or debate may be entered into.
 
-### 303. (proposed by @semyeotic, reached quorum 6 votes to 0)
-Upon the completion of a turn, the score a player rolls is added to the price at market of a random fruit.  If there are no fruits at market, no price change occurs.  For clarity, market price changes are not part of a player's turn, and whether they occur or not does not impact the completion of a turn.
+### 315. (303. amended by @semyeotic, reached quorum 5 votes to 1)
+Upon the completion of a turn, double  the score added to the player is immediately, joyously and irrevocably added to the Reserve of the Chamber.  Appropriations Requests shall be approved by the members of the Chamber only by unanimous consent. Any active player has the ability to make one Appropriations Request per turn, but is not required to do so to complete a turn. If a player is inactive, they may not lodge an Appropriations Request. For clarity, Reserve changes are not part of a player's turn, and whether they occur or not does not impact the completion of a turn.
 
 ### 304. (proposed by @marmaladian, reached quorum 6 votes to 0)
 Players must belong to either the Hall or the Chamber.
