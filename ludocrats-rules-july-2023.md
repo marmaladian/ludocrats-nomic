@@ -53,24 +53,6 @@ Whatever is not prohibited or regulated by a rule is permitted and unregulated, 
 
 ## Mutable Rules
 
-### 201. 
-Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
-
-In mail and computer games, players shall alternate in alphabetical order by surname.
-
-### 314. (202. amended by @Biggusniccus, reached quorum 5 votes to 1)
-One turn consists of two parts in this order: 
-
-(1) Either proposing one rule-change and having it voted on OR Taking a trip to the market and perform up to one market action.
-
-(2) throwing one die once and adding the number of points on its face to one's score.
-
-A market action is defined as either purchasing a piece of fruit OR adding a new piece of fruit to the market.  A piece of fruit may not be purchased by its donor until their next turn.
-
-The decision to either propose a rule-change or go to the market must be made at the start of the turn and cannot be changed. 
-
-In mail and computer games, instead of throwing a die, players subtract 291 from the ordinal number of their proposal and multiply the result by the fraction of favourable votes it received, rounded to the nearest integer. (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.)
-
 ### 203.
 A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
@@ -130,9 +112,6 @@ On a players turn, they may propose a draft form of the proposal to be debated a
 
 Once the player has submitted a proposal with the branding, [FINAL DRAFT], no more discussion or debate may be entered into.
 
-### 315. (303. amended by @semyeotic, reached quorum 5 votes to 1)
-Upon the completion of a turn, double  the score added to the player is immediately, joyously and irrevocably added to the Reserve of the Chamber.  Appropriations Requests shall be approved by the members of the Chamber only by unanimous consent. Any active player has the ability to make one Appropriations Request per turn, but is not required to do so to complete a turn. If a player is inactive, they may not lodge an Appropriations Request. For clarity, Reserve changes are not part of a player's turn, and whether they occur or not does not impact the completion of a turn.
-
 ### 304. (proposed by @marmaladian, reached quorum 6 votes to 0)
 Players must belong to either the Hall or the Chamber.
 
@@ -190,5 +169,33 @@ Initial Cost:  In points
 Effect : The effect the fruit has including how it is triggered and who it effects.
 
 If a player elects to add another piece of fruit already available in the market they may nominate a new initial price for that fruit.
+
+Infected by The Plague.
+
+### 314. (202. amended by @Biggusniccus, reached quorum 5 votes to 1)
+One turn consists of two parts in this order: 
+
+(1) Either proposing one rule-change and having it voted on OR Taking a trip to the market and perform up to one market action.
+
+(2) throwing one die once and adding the number of points on its face to one's score.
+
+A market action is defined as either purchasing a piece of fruit OR adding a new piece of fruit to the market.  A piece of fruit may not be purchased by its donor until their next turn.
+
+The decision to either propose a rule-change or go to the market must be made at the start of the turn and cannot be changed. 
+
+In mail and computer games, instead of throwing a die, players subtract 291 from the ordinal number of their proposal and multiply the result by the fraction of favourable votes it received, rounded to the nearest integer. (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.)
+
+Infected by The Plague.
+
+
+### 315. (303. amended by @semyeotic, reached quorum 5 votes to 1)
+Upon the completion of a turn, double  the score added to the player is immediately, joyously and irrevocably added to the Reserve of the Chamber.  Appropriations Requests shall be approved by the members of the Chamber only by unanimous consent. Any active player has the ability to make one Appropriations Request per turn, but is not required to do so to complete a turn. If a player is inactive, they may not lodge an Appropriations Request. For clarity, Reserve changes are not part of a player's turn, and whether they occur or not does not impact the completion of a turn.
+
+Infected by The Plague.
+
+### 316. (201. amended by @marmaladian, reached quorum 4 votes to 2) 
+Players who are members of the Hall shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
+
+In mail and computer games, players shall alternate in alphabetical order by surname.
 
 Infected by The Plague.
