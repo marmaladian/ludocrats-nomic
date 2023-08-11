@@ -68,11 +68,6 @@ When a proposed rule-change is defeated, the player who proposed it loses 10 poi
 ### 207.
 Each player always has exactly one vote.
 
-### 208.
-The winner is the first player to achieve 100 (positive) points.
-
-In mail and computer games, the winner is the first player to achieve 200 (positive) points.
-
 ### 209.
 At no time may there be more than 25 mutable rules.
 
@@ -197,5 +192,20 @@ Infected by The Plague.
 Players who are members of the Hall shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
 In mail and computer games, players shall alternate in alphabetical order by surname.
+
+Infected by The Plague.
+
+### 317. (208. amended by @C.J., reached quorum 6 votes to 0)
+
+The winner is the first player to be bestowed the title "Grand Inquisitor, Master of Fruit, Protector of Nomicons" and to hold that title at the end of 3 consecutive cycles.
+
+Titles will be granted as follows:
+"Grand Inquisitor" will be bestowed upon the player with the highest points total at the end of each cycle. They must also have at least 100 points.
+"Master of Fruit" will be bestowed upon the player who has used (triggered the effect) on the most fruit over the entire course if the game at the end of each cycle.
+"Protector of Nomicons" will be bestowed on the player who has won "Nomicon of the round" the most times over the course of the game. If there is a tie, this title is not bestowed that cycle.
+
+The above titles will be revoked at the end of any cycle that a player no longer meets the criteria.
+
+Any player holding one or more of the above titles must be addressed with that title or titles (or abbreviations thereof) as suffix to their honorific per rule #307.
 
 Infected by The Plague.
