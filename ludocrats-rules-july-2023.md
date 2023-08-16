@@ -188,13 +188,6 @@ Upon the completion of a turn, double  the score added to the player is immediat
 
 Infected by The Plague.
 
-### 316. (201. amended by @marmaladian, reached quorum 4 votes to 2) 
-Players who are members of the Hall shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
-
-In mail and computer games, players shall alternate in alphabetical order by surname.
-
-Infected by The Plague.
-
 ### 317. (208. amended by @C.J., reached quorum 6 votes to 0)
 
 The winner is the first player to be bestowed the title "Grand Inquisitor, Master of Fruit, Protector of Nomicons" and to hold that title at the end of 3 consecutive cycles.
@@ -207,5 +200,20 @@ Titles will be granted as follows:
 The above titles will be revoked at the end of any cycle that a player no longer meets the criteria.
 
 Any player holding one or more of the above titles must be addressed with that title or titles (or abbreviations thereof) as suffix to their honorific per rule #307.
+
+Infected by The Plague.
+
+### 318. (316. amended by @Biggusniccus, reached quorum 4 votes to 2) 
+Players who are members of the Hall shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
+
+In mail and computer games, players shall alternate in alphabetical order by surname.
+
+Players who are members of the Chamber, once per circuit, may, at any point use points from the chamber pot to take one turn on behalf of all the members of the chamber.  The purchased turn will follow all the normal rules of taking a turn (cf. 314)
+
+Points awarded will be given to each member of the chamber.
+
+The cost of purchasing a turn will be calculated once the vote has been finalised.  Along with the Final Draft of a vote, the Chamber will nominate a set amount of points per vote.
+For each vote for the approval of the final draft, the nominated amount will be deducted from the chamber pot and awarded to the approving player
+For each vote against the approval of the final draft, the nominated amount will be deducted from the disapproving player and added to the chamber pot.
 
 Infected by The Plague.
