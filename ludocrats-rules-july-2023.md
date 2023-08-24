@@ -217,3 +217,23 @@ For each vote for the approval of the final draft, the nominated amount will be 
 For each vote against the approval of the final draft, the nominated amount will be deducted from the disapproving player and added to the chamber pot.
 
 Infected by The Plague.
+
+### 319. (proposed by @heaso, reached quorum 5 votes to 1)
+Players must belong to a House;  either the Hall, the Chamber or the Salvation.
+
+Players choose for themselves which House they join initially.
+
+Switching membership (e.g. from the Hall to the Chamber or vice versa) requires unanimous approval by the current members of the House the player wishes to join, unless there are zero members where entry is automatically granted.
+
+In addition, to join the Salvation players must also have fewer than 20 points.
+
+Infected by The Plague.
+
+### 320. (proposed by @TiCranium, reached quorum 5 votes to 1)
+
+The Plague has reached Pandemic Proportions. 
+The only refuge is in Salvation. 
+Players in Salvation may request an acquisition of 50 points from the Chamber to cure a single rule of The Plague on their turn instead of visiting the Fruit Market, or proposing a rule change, this immediately cures a single nominated rule of The Plague.
+For every rule infected by the Plague, players who are not in Salvation lose 1 point(s) per rule infected by The Plague on their turn.
+
+Infected by The Plague.
