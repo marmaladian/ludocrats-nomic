@@ -56,9 +56,6 @@ Whatever is not prohibited or regulated by a rule is permitted and unregulated, 
 ### 203.
 A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
-### 204.
-If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points each.
-
 ### 205.
 An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
 
@@ -106,13 +103,6 @@ All rule change proposals must be made within 24 hours of being notified that is
 On a players turn, they may propose a draft form of the proposal to be debated and discussed in a thread dedicated to discussion of the proposal.  Only the final draft of a vote may be officially voted on.  The final draft shall be known to all as the final draft as it shall bear the branding [FINAL DRAFT] at the start.
 
 Once the player has submitted a proposal with the branding, [FINAL DRAFT], no more discussion or debate may be entered into.
-
-### 304. (proposed by @marmaladian, reached quorum 6 votes to 0)
-Players must belong to either the Hall or the Chamber.
-
-Players choose for themselves which of these they join initially.
-
-Switching membership (e.g. from the Hall to the Chamber or vice versa) requires unanimous approval by the current members of the group (Hall or Chamber) the player wishes to join.
 
 ### 305. (proposed by @heaso, reached quorum 6 votes to 0)
 Nomic has been infected by The Plague. 
@@ -182,7 +172,6 @@ In mail and computer games, instead of throwing a die, players subtract 291 from
 
 Infected by The Plague.
 
-
 ### 315. (303. amended by @semyeotic, reached quorum 5 votes to 1)
 Upon the completion of a turn, double  the score added to the player is immediately, joyously and irrevocably added to the Reserve of the Chamber.  Appropriations Requests shall be approved by the members of the Chamber only by unanimous consent. Any active player has the ability to make one Appropriations Request per turn, but is not required to do so to complete a turn. If a player is inactive, they may not lodge an Appropriations Request. For clarity, Reserve changes are not part of a player's turn, and whether they occur or not does not impact the completion of a turn.
 
@@ -218,7 +207,7 @@ For each vote against the approval of the final draft, the nominated amount will
 
 Infected by The Plague.
 
-### 319. (proposed by @heaso, reached quorum 5 votes to 1)
+### 319. (309. amended by @heaso, reached quorum 5 votes to 1)
 Players must belong to a House;  either the Hall, the Chamber or the Salvation.
 
 Players choose for themselves which House they join initially.
@@ -235,5 +224,22 @@ The Plague has reached Pandemic Proportions.
 The only refuge is in Salvation. 
 Players in Salvation may request an acquisition of 50 points from the Chamber to cure a single rule of The Plague on their turn instead of visiting the Fruit Market, or proposing a rule change, this immediately cures a single nominated rule of The Plague.
 For every rule infected by the Plague, players who are not in Salvation lose 1 point(s) per rule infected by The Plague on their turn.
+
+Infected by The Plague.
+
+### 321. (204. amended by @Biggusniccus, reached quorum 6 votes to 0)
+There is a traitor among us!
+
+For each vote against a final draft, 5 points will go into the mole-hole.
+For each final draft that does not get approved, 20 points will go into the mole-hole.
+
+The points in the mole-hole will be transferred to the traitor's score when it contains 100 points or more.
+The traitor is revealed and a new traitor is allocated. 
+
+A loyalist may attempt to steal the the points from the mole-hole for themselves if they can correctly guess who the traitor is.  To do this, they donate 25 of their own points to the mole-hole, then privately ask their suspect if they are the traitor.  If they are correct, the traitor must expose themselves publicly, the points from the mole-hole are transferred to the correct guesser and a new mole is allocated.
+
+The suspect must tell the truth, and must not reveal that they are a suspect.  A penalty of 50 points will apply.
+
+In the case that the donation pushes the mole-hole past 100 points, the steal attempt will still occur.
 
 Infected by The Plague.
