@@ -104,11 +104,6 @@ On a players turn, they may propose a draft form of the proposal to be debated a
 
 Once the player has submitted a proposal with the branding, [FINAL DRAFT], no more discussion or debate may be entered into.
 
-### 305. (proposed by @heaso, reached quorum 6 votes to 0)
-Nomic has been infected by The Plague. 
-
-Any rules created or amended by a proposal must include the text “Infected by The Plague” at the end.
-
 ### 306. (transmutation of 104 to mutable proposed by @C.J., reached quorum 6 votes to 0)
 All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
 
@@ -243,3 +238,14 @@ The suspect must tell the truth, and must not reveal that they are a suspect.  A
 In the case that the donation pushes the mole-hole past 100 points, the steal attempt will still occur.
 
 Infected by The Plague.
+
+### 323. (amended by @hutchaye, reached quorum 7 votes to 0)
+Nomic has been infected by The Plague.
+
+Any rules created or amended by a proposal must include the text “Infected by The Plague” at the end.
+
+Upon proposing a new rule, player must roll 2d6. If the resulting total is 11 or higher, the player may voluntarily change their title to "Master of the Dark Humors" and is immune to losing points under Rule 320.
+
+In the event of a successful roll, the individual will retain the honorific and benefits until another individual successfully rolls an 11+
+
+Infected by the Plague.
