@@ -248,4 +248,16 @@ Upon proposing a new rule, player must roll 2d6. If the resulting total is 11 or
 
 In the event of a successful roll, the individual will retain the honorific and benefits until another individual successfully rolls an 11+
 
-Infected by the Plague.
+Infected by The Plague.
+
+### 324. (proposed by @marmaladian (Chamber proposal), reached quorum 4 votes to 3)
+
+A player proposing amendment or repeal of a rule that is Infected by The Plague will themselves become infected by The Plague after voting is completed.
+
+Infected players cannot propose new rules or amendments; they can only propose repeals on their turn and these proposals are adopted without voting. Discussion of the proposal is still permitted before a final draft is put forth.
+
+If there are no mutable rules that can be repealed, the player skips the rule proposal phase of their turn.
+
+The effect of the infection is lifted temporarily so long as they are in Salvation, and permanently when there are no rules Infected by the Plague.
+
+Infected by The Plague.
