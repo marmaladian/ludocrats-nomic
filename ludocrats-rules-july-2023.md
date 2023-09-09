@@ -202,17 +202,6 @@ For each vote against the approval of the final draft, the nominated amount will
 
 Infected by The Plague.
 
-### 319. (309. amended by @heaso, reached quorum 5 votes to 1)
-Players must belong to a House;  either the Hall, the Chamber or the Salvation.
-
-Players choose for themselves which House they join initially.
-
-Switching membership (e.g. from the Hall to the Chamber or vice versa) requires unanimous approval by the current members of the House the player wishes to join, unless there are zero members where entry is automatically granted.
-
-In addition, to join the Salvation players must also have fewer than 20 points.
-
-Infected by The Plague.
-
 ### 320. (proposed by @TiCranium, reached quorum 5 votes to 1)
 
 The Plague has reached Pandemic Proportions. 
@@ -259,5 +248,27 @@ Infected players cannot propose new rules or amendments; they can only propose r
 If there are no mutable rules that can be repealed, the player skips the rule proposal phase of their turn.
 
 The effect of the infection is lifted temporarily so long as they are in Salvation, and permanently when there are no rules Infected by the Plague.
+
+Infected by The Plague.
+
+### 326. (319. amended by @Biggusniccus, reached quorum 6 votes to 0)
+
+Players must belong to a House; either the Hall, the Chamber or the Salvation.
+
+Players choose for themselves which House they join initially.
+
+Switching membership (e.g. from the Hall to the Chamber or vice versa) requires unanimous approval by the current members of the House the player wishes to join, unless there are zero members where entry is automatically granted
+
+In addition, to join the Salvation players must also have fewer than 20 points.
+
+The only exception to this is if a player is in the Dungeon. 
+
+A player in the Dungeon is not an eligible voter, may not eat fruit or go to the market. 
+
+Whether or not a player is sent to the Dungeon, the minimum length of their stay, and the cost to exit is entirely at discretion of the Chamber.
+
+Any player not in the Chamber may refer another player to the Chamber for prosecution for reasons such as, but not limited to: breaking the rules, passing rules that cause a constitutional crisis, going on hiatus.  Once a player is referred, the Chamber may deliberate and then make a single unified statement on the verdict.  Then, and only then, the player will be forcibly moved to the Dungeon under the conditions of the Chamber's verdict
+
+A player in the Dungeon cannot be in any other House. This overrides any fruit or other rule that may say otherwise.  Upon exit, the player returns to the House they were in before they were sent to the Dungeon.
 
 Infected by The Plague.
